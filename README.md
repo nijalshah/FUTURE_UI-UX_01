@@ -23,4 +23,4 @@ The project focuses on delivering a clean, user-friendly, and delightful browsin
 Figma, Unsplash, IconScout, Google Fonts
 
 🔗 View Prototype on Figma
-https://www.figma.com/proto/OcQjqt2M0kn5xtxIcHuffC/HappyEats--food-website?node-id=4-53&p=f&t=944JENv3Omus9Fdn-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A53
+https://www.figma.com/proto/2GqbE4gqPnws368ONqOV81/01.-HappyEats--food-website?node-id=4-53&p=f&t=U97SUzpCJcdtnYkP-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A53
